@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.xzier.tutorialmod.Mixin.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "server": [
+    "AbilitiesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "tutorialmod.mixin-refmap.json",
+  "mixins": [
+    "LevelMixin"
+  ]
+}

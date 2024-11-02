@@ -1,0 +1,36 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 1550553,
+    "fog_color": 11637,
+    "water_color": 983173,
+    "water_fog_color": 329011,
+    "grass_color": 2543426,
+    "foliage_color": 3797855
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:canyon",
+      "minecraft:cave_extra_underground"
+    ]
+  },
+  "features": [
+    "tutorialmod:disk_xzier_gravel",
+    [
+      "minecraft:disk_gravel",
+      "minecraft:disk_clay",
+      "minecraft:disk_sand"
+    ],
+    [
+      "minecraft:spring_lava",
+      "minecraft:spring_water",
+      "minecraft:spring_lava_frozen"
+    ],
+    "minecraft:trees_sparse_jungle"
+  ]
+}

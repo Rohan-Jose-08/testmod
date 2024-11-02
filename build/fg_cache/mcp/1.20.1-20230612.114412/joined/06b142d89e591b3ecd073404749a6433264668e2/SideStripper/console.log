@@ -1,0 +1,9 @@
+JVM:         D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\jbr\bin\java.exe
+JVM Args:    
+Run Args:    "--strip", "--input", "D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\AccessTransformer\output.jar", "--output", "D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\SideStripper\output.jar", "--data", "D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\SideStripper\string_data.sas"
+Classpath:   C:\Users\Rohan\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mergetool\1.1.7\mergetool-1.1.7-fatjar.jar
+Working Dir: D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\SideStripper
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger
+Input:  D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\AccessTransformer\output.jar
+Output: D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\SideStripper\output.jar
+Data:   D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\SideStripper\string_data.sas

@@ -1,0 +1,6 @@
+JVM:         D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\jbr\bin\java.exe
+JVM Args:    
+Run Args:    "--inJar", "D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\rename\output.jar", "--outJar", "D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\AccessTransformer\output.jar", "--atFile", "D:\Rohan\Documents\Modding\testmod\src\main\resources\META-INF\accesstransformer.cfg", "--atFile", "C:\Users\Rohan\AppData\Local\Temp\FG_ats_15560240828471554619.cfg"
+Classpath:   C:\Users\Rohan\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working Dir: D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\AccessTransformer
+Main Class:  net.minecraftforge.accesstransformer.TransformerProcessor

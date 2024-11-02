@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "tutorialmod:block/charger_block_off"
+    },
+    "powered=true": {
+      "model": "tutorialmod:block/charger_block_on"
+    }
+  }
+}

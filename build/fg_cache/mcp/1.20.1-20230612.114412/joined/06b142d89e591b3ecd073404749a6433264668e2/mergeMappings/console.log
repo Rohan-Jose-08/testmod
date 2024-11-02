@@ -1,0 +1,16 @@
+JVM:         D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\jbr\bin\java.exe
+JVM Args:    
+Run Args:    "--task", "MERGE_MAPPING", "--left", "config/joined.tsrg", "--right", "D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\downloadClientMappings\client_mappings.txt", "--right-names", "right,left", "--classes", "--output", "D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\mergeMappings\output.jar"
+Classpath:   C:\Users\Rohan\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.2.0\installertools-1.2.0-fatjar.jar
+Working Dir: D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\mergeMappings
+Main Class:  net.minecraftforge.installertools.ConsoleTool
+Task: MERGE_MAPPING
+Left:    config\joined.tsrg
+         null
+Right:   D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\downloadClientMappings\client_mappings.txt
+         right,left
+Classes: true
+Fields:  false
+Methods: false
+Params:  false
+Output:  D:\Rohan\Documents\Modding\testmod\build\fg_cache\mcp\1.20.1-20230612.114412\joined\06b142d89e591b3ecd073404749a6433264668e2\mergeMappings\output.jar

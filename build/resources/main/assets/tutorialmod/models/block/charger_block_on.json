@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "tutorialmod:block/machine_bottom",
+    "particle": "tutorialmod:block/machine_side",
+    "side": "tutorialmod:block/machine_side",
+    "top": "tutorialmod:block/charger_block_on"
+  }
+}

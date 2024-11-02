@@ -1,0 +1,7 @@
+Java Launcher: D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\jbr\bin\java.exe
+Arguments: '--inJar, D:\Rohan\Documents\Modding\testmod\build\fg_cache\net\neoforged\forge\1.20.1-47.1.76\forge-1.20.1-47.1.76-injected.jar, --outJar, D:\Rohan\Documents\Modding\testmod\build\fg_cache\net\neoforged\forge\1.20.1-47.1.76_mapped_parchment_2023.08.06-1.20.1\forge-1.20.1-47.1.76_mapped_parchment_2023.08.06-1.20.1.jar, --logFile, accesstransform.log, --atFile, D:\Rohan\Documents\Modding\testmod\src\main\resources\META-INF\accesstransformer.cfg, --atFile, D:\Rohan\Documents\Modding\testmod\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\Rohan\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working directory: D:\Rohan\Documents\Modding\testmod\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

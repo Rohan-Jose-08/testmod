@@ -1,0 +1,21 @@
+com/xzier/tutorialmod/Mixin/mixin/AbilitiesMixin flyingSpeed f_35939_
+com/xzier/tutorialmod/Mixin/mixin/AbilitiesMixin walkingSpeed f_35940_
+com/xzier/tutorialmod/Mixin/mixin/ContainerMixin LARGE_MAX_STACK_SIZE f_146642_
+com/xzier/tutorialmod/Mixin/mixin/ItemPropertiesMixin maxStackSize f_41478_
+com/xzier/tutorialmod/Mixin/mixin/LevelMixin MAX_LEVEL_SIZE f_151505_
+com/xzier/tutorialmod/Mixin/mixin/NoiseBasedChunkGeneratorMixin settings f_64318_
+com/xzier/tutorialmod/Mixin/mixin/NoiseBasedChunkGeneratorMixin globalFluidPicker f_188607_
+com/xzier/tutorialmod/Mixin/mixin/TerrainProviderMixin AMPLIFIED_JAGGEDNESS f_236564_
+com/xzier/tutorialmod/Mixin/mixin/WorldBorderMixin MAX_SIZE f_156092_
+com/xzier/tutorialmod/Mixin/mixin/WorldBorderMixin absoluteMaxSize f_61913_
+com/xzier/tutorialmod/Mixin/mixin/WorldBorderMixin extent f_61914_
+com/xzier/tutorialmod/Mixin/mixin/WorldgenRandomMixin count f_64676_
+com/xzier/tutorialmod/Mixin/mixin/WorldgenRandomMixin randomSource f_190054_
+com/xzier/tutorialmod/Mixin/mixin/ContainerMixin getMaxStackSize ()I m_6893_
+com/xzier/tutorialmod/Mixin/mixin/LevelMixin isInWorldBoundsHorizontal (Lnet/minecraft/core/BlockPos;)Z m_46457_
+com/xzier/tutorialmod/Mixin/mixin/LevelMixin isOutsideSpawnableHeight (I)Z m_46724_
+com/xzier/tutorialmod/Mixin/mixin/TerrainProviderMixin overworldOffset (Lnet/minecraft/util/ToFloatFunction;Lnet/minecraft/util/ToFloatFunction;Lnet/minecraft/util/ToFloatFunction;Z)Lnet/minecraft/util/CubicSpline; m_236635_
+com/xzier/tutorialmod/Mixin/mixin/TerrainProviderMixin overworldFactor (Lnet/minecraft/util/ToFloatFunction;Lnet/minecraft/util/ToFloatFunction;Lnet/minecraft/util/ToFloatFunction;Lnet/minecraft/util/ToFloatFunction;Z)Lnet/minecraft/util/CubicSpline; m_236629_
+com/xzier/tutorialmod/Mixin/mixin/TerrainProviderMixin overworldJaggedness (Lnet/minecraft/util/ToFloatFunction;Lnet/minecraft/util/ToFloatFunction;Lnet/minecraft/util/ToFloatFunction;Lnet/minecraft/util/ToFloatFunction;Z)Lnet/minecraft/util/CubicSpline; m_236642_
+com/xzier/tutorialmod/Mixin/mixin/WorldgenRandomMixin setLargeFeatureSeed (JII)V m_190068_
+com/xzier/tutorialmod/Mixin/mixin/WorldgenRandomMixin next (I)I m_64707_

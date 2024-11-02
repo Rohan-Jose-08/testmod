@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Specification-Title: tutorialmod
+Specification-Vendor: Xzier9
+Specification-Version: 1
+Implementation-Title: testmod
+Implementation-Version: 1.1.0
+Implementation-Vendor: Xzier9
+Implementation-Timestamp: 2024-10-31T18:16:53+0000
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+TweakOrder: 0
+MixinConfigs: tutorialmod.mixin.json
+
